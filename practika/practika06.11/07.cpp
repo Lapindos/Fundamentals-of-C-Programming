@@ -2,8 +2,8 @@
 #include <windows.h>
 
 int main() {
-    SetConsoleOutputCP(1251);
-    SetConsoleCP(1251);
+    SetConsoleOutputCP(65001);
+    SetConsoleCP(65001);
 
     int sum = 0;
     for (int i = 1; i <= 99; i += 2) {
