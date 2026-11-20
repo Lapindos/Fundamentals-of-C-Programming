@@ -4,4 +4,21 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="Fundamentals-of-C-Programming.vcxproj" Id="d516745a-0a9a-4f5d-b64c-352f31f6fb98" />
+  <Folder Name="/practika/practika06.11/">
+    <Project Path="practika\practika06.11\01.vcxproj" Id="a1061101-0001-4000-8000-000000000001" />
+    <Project Path="practika\practika06.11\02.vcxproj" Id="a1061102-0002-4000-8000-000000000002" />
+    <Project Path="practika\practika06.11\03.vcxproj" Id="a1061103-0003-4000-8000-000000000003" />
+    <Project Path="practika\practika06.11\04.vcxproj" Id="a1061104-0004-4000-8000-000000000004" DefaultStartup="true" />
+    <Project Path="practika\practika06.11\05.vcxproj" Id="a1061105-0005-4000-8000-000000000005" />
+    <Project Path="practika\practika06.11\06.vcxproj" Id="a1061106-0006-4000-8000-000000000006" />
+    <Project Path="practika\practika06.11\07.vcxproj" Id="a1061107-0007-4000-8000-000000000007" />
+    <Project Path="practika\practika06.11\08.vcxproj" Id="a1061108-0008-4000-8000-000000000008" />
+    <Project Path="practika\practika06.11\09.vcxproj" Id="a1061109-0009-4000-8000-000000000009" />
+    <Project Path="practika\practika06.11\10.vcxproj" Id="a1061110-0010-4000-8000-000000000010" />
+    <Project Path="practika\practika06.11\11.vcxproj" Id="a1061111-0011-4000-8000-000000000011" />
+    <Project Path="practika\practika06.11\12.vcxproj" Id="a1061112-0012-4000-8000-000000000012" />
+  </Folder>
+  <Folder Name="/practika/practika20.11/">
+    <Project Path="practika\practika20.11\func.vcxproj" Id="a1201120-2011-4000-8000-000000000020" />
+  </Folder>
 </Solution>

@@ -19,16 +19,10 @@
     <Filter Include="theory">
       <UniqueIdentifier>{C2D91F44-0A77-4E18-9B33-55A8E6D12C70}</UniqueIdentifier>
     </Filter>
-    <Filter Include="practika">
-      <UniqueIdentifier>{E7A05B88-3D14-4C62-8F09-2B6C91D4E5AA}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Fundamentals-of-C-Programming.cpp">
       <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="practika\func.cpp">
-      <Filter>practika</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
