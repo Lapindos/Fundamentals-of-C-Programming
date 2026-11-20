@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Fundamentals-of-C-Programming.vcxproj" />
+  <Project Path="Fundamentals-of-C-Programming.vcxproj" Id="d516745a-0a9a-4f5d-b64c-352f31f6fb98" />
 </Solution>
